@@ -1,3 +1,7 @@
-Hi I am Krishna
-
+<<<<<<< HEAD
 Why are you late
+=======
+Hello
+This is FOSS class
+Demo on GIT
+>>>>>>> 07a616976d9183714af88818f08d263d770aa572
